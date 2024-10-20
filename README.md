@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing Master's **Univeristy at Buffalo, New York**
+- 🔭 I’m currently pursuing Master's in Computer Science **Univeristy at Buffalo, New York**
 
 - 🌱 I’m currently learning **AL/ML and contributing to open source projects**
 
